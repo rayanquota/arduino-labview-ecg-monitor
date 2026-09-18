@@ -1,0 +1,15 @@
+# LabVIEW-generated local files
+*.aliases
+*.lvlps
+*.lvuser
+
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
